@@ -1,0 +1,21 @@
+Nhóm 1:
+- Recency: 864 -> 1181
+- Frequency: 1 -> 11
+- Monetary: 745 -> 18924
+
+Nhóm 2:
+- Recency: 864 -> 934
+- Frequency: 6 -> 17
+- Monetary: 19109 -> 34624
+
+Nhóm 3:
+- Recency: 864 -> 928
+- Frequency: 10 -> 20
+- Monetary: 34661 -> 62539
+
+
+Nhóm 1: Nhóm khách hàng có Recency cao, tương đối thấp về Frequency và Monetary. Đây có thể là nhóm khách hàng mới, hoặc đã từng mua hàng tuy nhiên không mua hàng thường xuyên hoặc mua các sản phẩm giá trị thấp.
+
+Nhóm 2: Nhóm khách hàng có Recency trung bình và tăng dần, tăng về Frequency và Monetary. Đây là nhóm khách hàng đã từng mua hàng và đang mua hàng thường xuyên, và tăng giá trị đơn hàng. Nhóm khách hàng này đang trở thành khách hàng trung thành của công ty.
+
+Nhóm 3: Nhóm khách hàng có Recency thấp nhất, Frequency và Monetary cao nhất. Đây là nhóm khách hàng đã từng mua hàng và đang mua hàng thường xuyên, và đặt giá trị đơn hàng cao. Đây là nhóm khách hàng trung thành và đóng góp lớn vào doanh số bán hàng của công ty.
