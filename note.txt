@@ -1,22 +1,26 @@
-Range of cluster 1:
-	Recency: 867 -> 1184
-	Frequency: 1 -> 11
-	Monetary: 745 -> 18951
-Range of cluster 2:
-	Recency: 867 -> 937
-	Frequency: 6 -> 17
-	Monetary: 19109 -> 34628
-Range of cluster 3:
-	Recency: 867 -> 931
-	Frequency: 10 -> 20
-	Monetary: 34661 -> 62539
+Nhóm Moderate Engagement (Trung bình tương tác):
+
+Recency (Thời gian gần nhất): 934 -> 1187
+Frequency (Tần suất): 1 -> 6
+Monetary (Số tiền): 745 -> 16153
+Mô tả: Nhóm này bao gồm các khách hàng có mức độ tương tác trung bình với doanh nghiệp hoặc thương hiệu. Các khách hàng trong nhóm này đã thực hiện mua sắm hoặc giao dịch với doanh nghiệp trong khoảng thời gian trung bình. Họ không phải là khách hàng mới nhất, nhưng cũng không hoạt động quá lâu. Tần suất mua sắm của nhóm này là trung bình, không phổ biến quá nhiều. Số tiền chi tiêu của họ cũng ở mức trung bình, không quá cao.
 
 
-Nhóm 1: Nhóm khách hàng có Recency cao, tương đối thấp về Frequency và Monetary. Đây có thể là nhóm khách hàng mới, hoặc đã từng mua hàng tuy nhiên không mua hàng thường xuyên hoặc mua các sản phẩm giá trị thấp.
+Nhóm Active Customers (Khách hàng tích cực):
 
-Nhóm 2: Nhóm khách hàng có Recency trung bình và tăng dần, tăng về Frequency và Monetary. Đây là nhóm khách hàng đã từng mua hàng và đang mua hàng thường xuyên, và tăng giá trị đơn hàng. Nhóm khách hàng này đang trở thành khách hàng trung thành của công ty.
+Recency (Thời gian gần nhất): 870 -> 940
+Frequency (Tần suất): 1 -> 12
+Monetary (Số tiền): 1296 -> 29255
+Mô tả: Nhóm này đại diện cho những khách hàng tích cực và hoạt động nhiều với doanh nghiệp. Các khách hàng trong nhóm này đã thực hiện mua sắm hoặc giao dịch với doanh nghiệp trong khoảng thời gian gần đây. Tần suất mua sắm của nhóm này dao động từ thấp đến cao, có thể coi là khách hàng có sự tương tác thường xuyên với doanh nghiệp. Họ cũng chi tiêu từ mức thấp đến cao, cho thấy họ có thể là những khách hàng quan trọng đối với doanh nghiệp.
 
-Nhóm 3: Nhóm khách hàng có Recency thấp nhất, Frequency và Monetary cao nhất. Đây là nhóm khách hàng đã từng mua hàng và đang mua hàng thường xuyên, và đặt giá trị đơn hàng cao. Đây là nhóm khách hàng trung thành và đóng góp lớn vào doanh số bán hàng của công ty.
+
+Nhóm High-Value Customers (Khách hàng giá trị cao):
+
+Recency (Thời gian gần nhất): 870 -> 934
+Frequency (Tần suất): 10 -> 20
+Monetary (Số tiền): 22110 -> 62539
+Mô tả: Nhóm này đại diện cho những khách hàng có giá trị cao đối với doanh nghiệp. Các khách hàng trong nhóm này đã thực hiện mua sắm hoặc giao dịch với doanh nghiệp trong khoảng thời gian gần đây. Tần suất mua sắm của nhóm này từ trung bình đến cao, cho thấy sự tương tác thường xuyên và trung thành với doanh nghiệp. Họ chi tiêu một số tiền lớn, cho thấy họ là những khách hàng quan trọng và đóng góp một phần lớn vào doanh thu của doanh nghiệp. Với mức độ tương tác cao, tần suất mua sắm và số tiền chi tiêu đáng kể, nhóm khách hàng này có tiềm năng cao để tạo ra lợi nhuận và đóng vai trò quan trọng trong việc thúc đẩy sự phát triển và thành công của doanh nghiệp.
+
 
 
 Giải pháp:
