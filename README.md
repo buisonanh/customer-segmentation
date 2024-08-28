@@ -38,6 +38,8 @@ Monetary value was calculated by summing up the transaction amounts for each cus
 
 The calculated RFM scores were then merged into a single dataframe.
 
+![data](images/data_overview.png)
+
 ## <a name="data-scaling">Data Scaling</a>
 The RFM values were scaled using the `StandardScaler` to standardize the data for clustering.
 
@@ -49,13 +51,20 @@ K-Means clustering was chosen for segmenting the customers. The optimal number o
 #### **Elbow Method**:
 The Sum of Squared Errors (SSE) was plotted against the number of clusters. The optimal number of clusters was identified at the elbow point, which was found to be 3 clusters.
 
+![sse](images/sse.png)
+
 #### **Silhouette Coefficient**:
 The silhouette score for each number of clusters was calculated, with the highest score indicating the best clustering structure. The best number of clusters was also identified as 3.
+
+![silhouette](images/silhouette_coef.png)
 
 ### **2. Cluster Analysis**
 Two clustering structures were tested: 3 clusters and 4 clusters. 
 
 #### **3 Clusters (Optimal)**
+
+![3clusters](images/3clusters.png)
+
 - **Cluster 1: Moderate Engagement (Green)**
   - **Recency**: 934 -> 1187
   - **Frequency**: 1 -> 6
@@ -76,6 +85,8 @@ Two clustering structures were tested: 3 clusters and 4 clusters.
 
 #### **4 Clusters**
 Adding a fourth cluster provided a finer segmentation but was not as optimal based on the silhouette score. The segmentation was less distinct, and the clusters overlapped more significantly.
+
+![4clusters](images/4clusters.png)
 
 ## <a name="visualizations">Visualizations</a>
 3D scatter plots were created to visualize the distribution of the clusters across the Recency, Frequency, and Monetary dimensions. The visualizations helped to identify and confirm the natural grouping of customers within the dataset.
